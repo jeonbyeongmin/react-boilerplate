@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 85f5e25fdd39e09b85966a2592502b9695c3a600
 <br/>
 
 ### Tooling Packages
@@ -8,13 +12,23 @@
 <br/>
 
 ### Presets
+<<<<<<< HEAD
+
+- `@babel/preset-env` : ES6+ 문법으로 작성된 코드를 ES5 문법으로 트랜스파일링하기 위한 프리셋
+- `@babel/preset-react` : JSX 트랜스파일링을 위한 프리셋
+- `@babel/preset-typescript` : 타입스크립트 트랜스파일링을 위한 프리셋
+=======
+>>>>>>> 85f5e25fdd39e09b85966a2592502b9695c3a600
 
 - `@babel/preset-env` : ES6+ 문법으로 작성된 코드를 ES5 문법으로 트랜스파일링하기 위한 프리셋
 - `@babel/preset-react` : JSX 트랜스파일링을 위한 프리셋
 - `@babel/preset-typescript` : 타입스크립트 트랜스파일링을 위한 프리셋
 
+<<<<<<< HEAD
+=======
 <br/>
 
+>>>>>>> 85f5e25fdd39e09b85966a2592502b9695c3a600
 ### install
 
 바벨은 실행이 아니라 빌드 시에 필요하기 때문에 개발 의존성 모듈로 설치해준다.
